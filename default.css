@@ -301,9 +301,9 @@
 
 	#header-wrapper
 	{
+		background-image: url(images/aggiN.jpg);
 		position: relative;
 		padding: 5em 0em 7em 0em;
-		background-size: cover;
 	}
 
 	#header
