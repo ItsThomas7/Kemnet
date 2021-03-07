@@ -313,12 +313,13 @@
 	}
 
 	#header-Overons{
-	background-image: url(images/aggiN.jpg);
 	position: relative;
 	padding: 5em 0em 7em 0em;
+
 }
-#header-Overons img{
-opacity: 5%;
+#header-Overons-Image{
+	background-image: url(images/aggiN.jpg)!important;
+	opacity: 5%!important;
 }
 /*********************************************************************************/
 /* Logo                                                                          */
