@@ -7,5 +7,6 @@ Website van Kemnet
 - Contactpagina aanpassen
 - Producten pagina aanpassen
 - Homepage perfectioneren
+- Product en prijs
 
 Kubi-opacity toevoegen aan achtergrond afbeelding.
