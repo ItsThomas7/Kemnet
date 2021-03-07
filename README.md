@@ -1,6 +1,8 @@
 # Kemnet
 Website van Kemnet
 
+ToDo:
+
 - logo
 - Winkelwagen
 - Over ons pagina aanpassen
@@ -9,4 +11,8 @@ Website van Kemnet
 - Homepage perfectioneren
 - Product en prijs
 
-Kubi-opacity toevoegen aan achtergrond afbeelding.
+
+Bedrijfplan:
+
+- Eigen soort klassen website cheap medium en prof, met verschillende prijzen/toepassingen.
+- Eigen hosting bij een provider en hierbij ook los en met onze websites verkopen.
